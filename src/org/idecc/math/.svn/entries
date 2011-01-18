@@ -1,0 +1,127 @@
+8
+
+dir
+1
+file:///home/chaos/Documents/repository/mathlib/trunk/org/idecc/math
+file:///home/chaos/Documents/repository
+
+
+
+2007-10-21T15:58:24.621689Z
+1
+chaos
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+4ed74d80-e9bd-43ce-8b0b-6026a4e1ee49
+
+ManhattanMetric.java
+file
+
+
+
+
+2007-10-21T16:05:56.000000Z
+f878ddb2f31a40583bbc8b6f14476695
+2007-10-21T15:58:24.621689Z
+1
+chaos
+
+graphics
+dir
+
+Point3D.java
+file
+
+
+
+
+2007-10-21T16:05:56.000000Z
+c1c36e6f8d56b03196fc2625efd80a86
+2007-10-21T15:58:24.621689Z
+1
+chaos
+
+event
+dir
+
+MaximumMetric.java
+file
+
+
+
+
+2007-10-21T16:05:56.000000Z
+bde1d244d60a003daebb49effd23b664
+2007-10-21T15:58:24.621689Z
+1
+chaos
+
+EuclideanSquaredMetric.java
+file
+
+
+
+
+2007-10-21T16:05:56.000000Z
+fdd7fe305ad829fb45aa4acabde662c6
+2007-10-21T15:58:24.621689Z
+1
+chaos
+
+real
+dir
+
+complex
+dir
+
+Point.java
+file
+
+
+
+
+2007-10-21T16:05:56.000000Z
+23fff4fe3b144303bbd4147a93ba306c
+2007-10-21T15:58:24.621689Z
+1
+chaos
+
+EuclideanMetric.java
+file
+
+
+
+
+2007-10-21T16:05:56.000000Z
+9fe9258e2ecf11e9dcb392edd5558daa
+2007-10-21T15:58:24.621689Z
+1
+chaos
+
+MetricCalculator.java
+file
+
+
+
+
+2007-10-21T16:05:56.000000Z
+be7e2fe93898da1ccfee9788eb005a63
+2007-10-21T15:58:24.621689Z
+1
+chaos
+
+xmetrics
+dir
+
