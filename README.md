@@ -1,4 +1,4 @@
-== mathlib ==
+## mathlib
 
 This is a Java library I began writing a while ago.  Its main purpose was to
 provide a common implementation for Mandelbrot-style fractal rendering and
